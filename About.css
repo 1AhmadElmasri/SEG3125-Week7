@@ -1,0 +1,15 @@
+.about-description{
+    margin-left: 20%;
+    margin-top: 0px;
+}
+
+
+.about-description img{
+    width: 100px;
+    margin-left: 10%;
+    float: right;
+}
+
+.about-description p{
+    padding-top: 2%;
+}
